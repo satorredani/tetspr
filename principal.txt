@@ -1,2 +1,2 @@
-Texto principal escrito en la web de GitHub
+Texto Principal Escrito (texto escritp en Ubuntu para generar conflicto) en la web de GitHub
 Texto escrito en Ubuntu
